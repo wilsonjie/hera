@@ -17,7 +17,7 @@
     <description>hera project for Spring Boot</description>
 
     <properties>
-        <quartz.version>2.2.1</quartz.version>
+        <quartz.version>2.3.2</quartz.version>
         <jwt.version>3.3.0</jwt.version>
         <lang3.version>3.4</lang3.version>
         <hera.common.version>1.0</hera.common.version>
